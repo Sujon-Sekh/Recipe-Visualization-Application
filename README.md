@@ -21,7 +21,7 @@ cp kaggle.json ~/.kaggle/
 chmod 600 ~/.kaggle/kaggle.json
 kaggle datasets download -d hugodarwood/epirecipes
 unzip epirecipes.zip
-
+```
 ## Project Structure
 
 ### 1. Data Cleaning and Preprocessing
